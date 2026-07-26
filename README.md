@@ -19,4 +19,4 @@ The dataset was analyzed and visualized using different chart types to better un
 
 ## Workflow
 
-![Workflow](images/workflow.png)
+![Workflow](workflow.png)
