@@ -1,17 +1,22 @@
 # KNIME Data Visualization
 
-This project demonstrates different visualization techniques using KNIME.
+## Overview
+This project demonstrates basic data visualization techniques using KNIME Analytics Platform.
 
-## Visualizations
+## Project Description
+The dataset was analyzed and visualized using different chart types to better understand the distribution and relationships within the data.
+
+## Visualizations Used
 - Histogram
 - Pie Chart
 - Scatter Plot
 - Scatter Matrix
 - Line Plot
 
-## Tool
+## Tools
 - KNIME Analytics Platform
+- Excel
 
 ## Workflow
 
-![Workflow](workflow.png)
+![Workflow](images/workflow.png)
