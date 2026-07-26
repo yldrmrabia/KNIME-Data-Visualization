@@ -11,3 +11,7 @@ This project demonstrates different visualization techniques using KNIME.
 
 ## Tool
 - KNIME Analytics Platform
+
+## Workflow
+
+![Workflow](workflow.png)
