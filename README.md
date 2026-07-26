@@ -20,3 +20,5 @@ The dataset was analyzed and visualized using different chart types to better un
 ## Workflow
 
 ![Workflow](workflow.png)
+
+The workflow demonstrates how different visualization nodes in KNIME can be used to analyze data, including Histogram, Pie Chart, Scatter Plot, Scatter Matrix, and Line Plot.
